@@ -293,7 +293,7 @@ TO DO:
 select all of the spans by tag name
 */
 /* ----- */
-{
+span {
     display: block;
 }
 
